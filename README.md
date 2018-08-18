@@ -1,1 +1,1 @@
-# fmdv_snp_analysis
+# FMDV SNP analysis
